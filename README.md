@@ -2,6 +2,12 @@ Ruby请参考我写的简明Ruby系列：[Ruby简明入门和提高
 ](http://blog.csdn.net/freeagle/article/details/46659351)
 
 (完善中......)
+
+本指南版本：
+* [github version](https://github.com/chenge/rails-simple-guide-cn/tree/master)
+* [csdn version](http://blog.csdn.net/freeagle/article/details/46658607)（完整目录）
+
+
 #前言
 
 本指南定位为[rails官方指南](http://guides.ruby-china.org/)的导读，是为初学者写的，本书提供概要，细节请查阅官方指南。
