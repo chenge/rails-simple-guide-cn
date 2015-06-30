@@ -211,3 +211,7 @@ Chrome插件
 ##API文档
 
 我目前就是用markdown写的，比较灵活，不过效果就一般。有一些流行的方案，目前还没用到。
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chenge/rails-simple-guide-cn/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
